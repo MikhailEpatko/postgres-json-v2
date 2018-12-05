@@ -18,7 +18,7 @@ public class MyRepositoryTest {
     private MyRepository repository;
 
     @Test
-    public void saveRequest() {
+    public void saveModel() {
 
         String name = "name";
         String email = "email";
